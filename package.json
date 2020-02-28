@@ -1,0 +1,8 @@
+{
+  "name": "oclazyload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brice-noowu/oclazyload.git",
+  "author": "Brice Nuzzo <brice.nuzzo@gmail.com>",
+  "license": "MIT"
+}
