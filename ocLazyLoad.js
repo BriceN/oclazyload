@@ -838,7 +838,6 @@
                     filesCache = $delegate._getFilesCache(),
                     cacheBuster = function cacheBuster(url) {
                         var version = CONSTANTS.VERSION;
-                        console.log(version);
 
                         if (url.indexOf('?') >= 0) {
                             if (url.substring(0, url.length - 1) === '&') {
